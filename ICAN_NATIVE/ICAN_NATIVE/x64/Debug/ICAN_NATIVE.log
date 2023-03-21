@@ -1,0 +1,6 @@
+﻿  ICAN_NATIVE.cpp
+C:\Users\zafer\source\repos\ICAN_NATIVE\ICAN_NATIVE\ICAN_NATIVE.cpp(30,17): warning C4244: '=': 'jlong' - 'unsigned long' dönüşümü; veri kaybı olabilir
+C:\Users\zafer\source\repos\ICAN_NATIVE\ICAN_NATIVE\ICAN_NATIVE.cpp(64,17): warning C4244: '=': 'jlong' - 'unsigned long' dönüşümü; veri kaybı olabilir
+C:\Users\zafer\source\repos\ICAN_NATIVE\ICAN_NATIVE\ICAN_NATIVE.cpp(76,53): warning C4244: 'bağımsız değişken': 'jlong' - 'DWORD' dönüşümü; veri kaybı olabilir
+C:\Users\zafer\source\repos\ICAN_NATIVE\ICAN_NATIVE\ICAN_NATIVE.cpp(87,25): warning C4244: 'bağımsız değişken': 'jlong' - 'long' dönüşümü; veri kaybı olabilir
+  ICAN_NATIVE.vcxproj -> C:\Users\zafer\source\repos\ICAN_NATIVE\x64\Debug\ICAN_NATIVE.dll
